@@ -34,4 +34,7 @@ Sales analysis and interactive dashboard development using Power BI and DAX.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/marwa--mohamedVanity URL name]
+- LinkedIn: www.linkedin.com/in/
+marwa--mohamed
+Vanity URL name
+
