@@ -4,16 +4,21 @@
 
 I am a fresh graduate interested in Data Analytics and transforming raw data into meaningful insights. I enjoy working with data cleaning, exploratory data analysis, visualization, and building interactive dashboards.
 
-## 🛠️ Skills & Tools
+## 🛠️ Tools
 
 - Python (Pandas, NumPy)
 - SQL
 - Power BI
+- Excel
+- Tableau
+
+## 📊 Data Analytics Skills
+
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Excel
-- Tableau
+- Dashboard Development
+- Data Analysis
 
 ## 📊 Projects
 
