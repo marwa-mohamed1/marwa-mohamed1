@@ -23,7 +23,7 @@ I am a fresh graduate interested in Data Analytics and transforming raw data int
 ## 📊 Projects
 
 ### 🏠 Airbnb Data Analysis
-Data cleaning and exploratory data analysis using Python, with insights and visualization through Power BI.
+An end-to-end data analysis project involving data cleaning and exploratory data analysis using Python, followed by data visualization and dashboard development using Power BI.
 
 ### 🎬 Netflix Data Analysis
 Exploratory Data Analysis using Python to explore trends in Netflix content, including content types, countries, ratings, and release years.
