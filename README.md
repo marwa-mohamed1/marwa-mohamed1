@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Marwa 👋
 
-<!--
-**marwa-mohamed1/marwa-mohamed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Power BI | Excel 
 
-Here are some ideas to get you started:
+I am a fresh graduate interested in Data Analytics and transforming raw data into meaningful insights. I enjoy working with data cleaning, exploratory data analysis, visualization, and building interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Excel
+- Tableau
+
+## 📊 Projects
+
+### 🏠 Airbnb Data Analysis
+Data cleaning and exploratory data analysis using Python, with insights and visualization through Power BI.
+
+### 🎬 Netflix Data Analysis
+Exploratory Data Analysis using Python to explore trends in Netflix content, including content types, countries, ratings, and release years.
+
+### 📈 Superstore Sales Analysis
+Sales analysis and interactive dashboard development using Power BI and DAX.
+
+## 🌱 Currently Working On
+
+- Improving my Data Analytics skills
+- Building end-to-end Data Analysis projects
+- Strengthening my Power BI and SQL skills
+
+## 📫 Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/marwa--mohamedVanity URL name]
